@@ -6,5 +6,7 @@ const student = {
 
 };
 
+student["age"] = student["age"] + 1;
+
 console.log(student["isPass"]);
 console.log(student.age);
